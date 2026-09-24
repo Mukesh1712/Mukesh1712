@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there I'm S Mukesh👋
 
-<!--
-**Mukesh1712/Mukesh1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year B.E. Computer Science & Engineering Student**  
+💻 **Aspiring Software Developer & Backend Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently focusing on **Backend Development**.
+- 📚 Deepening my knowledge in **Spring Boot** and Java ecosystem.
+- 💡 Passionate about building scalable applications and learning modern web technologies.
+
+---
+
+### 🛠️ Tech Stack
+
+**Programming Languages & Core:**
+- Java
+- HTML5 & CSS3
+- JavaScript
+
+**Backend Frameworks & Tools:**
+- Spring Boot
+- Git & GitHub
+
+---
+
+### 🔗 Connect with Me
+
+Click the button below to visit my LinkedIn profile:
+
+<a href="https://www.linkedin.com/in/mukesh-s-4855a7428/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
